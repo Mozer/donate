@@ -10,6 +10,8 @@ To support my projects:
 - USDT(TRC20): TU2jGRVhPUmHwC49zZ1RXxfF8eEnizt6Cx
 - MATIC(Polygon): 0x9eCC3DDAD6680dB3E8c7E867C9F89dF5CB05cB81
 
-Boosty and Patreon: coming soom
+
+- Boosty: https://boosty.to/tensorbanana
+- Patreon: coming soon
 
 Номер Сбер/Тинькофф скину в личку. Писать боту с пометкой "хочу сделать донат": https://t.me/talkllamabot
