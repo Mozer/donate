@@ -3,7 +3,7 @@
 To support my projects:
 
 Crypto:
-- Bitcoin: bc1q4aclxlsyuyxywwdd4s7wttx3ecurjxwm2qafnv
+- Bitcoin: 1NJgE7mNaL3gJUyRyCg7kh2nfHvMyWFJpH
 - Ethereum: 0x9eCC3DDAD6680dB3E8c7E867C9F89dF5CB05cB81
 - USDT (ERC20): 0x9eCC3DDAD6680dB3E8c7E867C9F89dF5CB05cB81
 - BNB: 0x9eCC3DDAD6680dB3E8c7E867C9F89dF5CB05cB81
